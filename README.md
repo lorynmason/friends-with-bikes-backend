@@ -1,10 +1,7 @@
 # friends-with-bikes-backend
 friends with bikes backend
 
-
-# Friends With Bikes — Backend
-
-GraphQL API for [Friends With Bikes](https://github.com/lorynmason/friends-with-bikes), a social cycling app focused on exploration and storytelling rather than performance.
+GraphQL API for Friends With Bikes, a social cycling app focused on exploration and storytelling rather than performance.
 
 Built with **FastAPI**, **Strawberry GraphQL**, and **PostgreSQL + PostGIS**.
 
